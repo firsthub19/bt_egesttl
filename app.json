@@ -12,7 +12,7 @@
         "media"
       ],
     "repository": "https://github.com/firsthub19/bt_egesttl",
-    "success_url": "/",
+    "success_url": "ftl.deekshith.eu.org",
     "website": "ftl.deekshith.eu.org",
     "env": {
         "ENV": {
